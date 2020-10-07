@@ -22,6 +22,7 @@
     "workbench.colorTheme": "Material Theme Darker",
     "workbench.iconTheme": "material-icon-theme",
     "vscode-neovim.neovimExecutablePaths.linux": "/home/efenyao/.Felix_sysroot64/bin/nvim.appimage",
+    "vscode-neovim.neovimExecutablePaths.win32": "C:\\Program Files\\Neovim\\bin\\nvim.exe",
     "vscode-neovim.mouseSelectionStartVisualMode": true,
     "whichkey.sortOrder": "alphabetically",
     "whichkey.bindings": [
